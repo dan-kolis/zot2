@@ -1,0 +1,9 @@
+04 July 2023 09:57
+
+Strath logisitics
+
+fix TP
+
+fsck -f /dev/sda2
+
+usually works
